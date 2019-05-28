@@ -1,0 +1,23 @@
+#rps_prin{
+  height: 200px;
+  width: 200px;
+}
+
+#choices {
+  display: flex;
+}
+
+
+.choice {
+  border: 1px solid green;
+  height: 200px;
+  width: 300px;
+}
+
+#selections {
+  display: flex;
+}
+
+.space-between {
+  height: 100px;
+}
